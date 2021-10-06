@@ -4,8 +4,7 @@ public class MemberShipActivation implements Payment {
 
 	@Override
 	public void makePayment(String paymentType) {
-		// TODO Auto-generated method stub
-
+		System.out.println("Membership will be activated");
 	}
 
 }

@@ -4,7 +4,7 @@ public class BookPurchase implements Payment {
 
 	@Override
 	public void makePayment(String paymentType) {
-		// TODO Auto-generated method stub
+		System.out.println("Shipment details  slip will be sent to royalty department");
 
 	}
 

@@ -15,7 +15,7 @@ public class PhysicalProduct implements Payment {
 	
 	@Override
 	public void makePayment(String paymentType) {
-		// TODO Auto-generated method stub
+		System.out.println("Payment slip will be generated");
 		
 	}
 
